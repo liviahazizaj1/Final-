@@ -88,6 +88,16 @@ Product details page is a page where users can manage and view past purchases on
 The Order History can manage and view pas purchases on the order history page.
 The User Account Page is for clients to track the order , manage personal information and gaining access to extra services 
 
+# 3.2 Hardware Interfaces
+Taking into consideration , it must be given to both , logical and physical aspects of hardware interfaces when describing the hardware interfaces.
+Through these interfaces , the systems underlying hardware and software can communicate with each other.
+• Logical Characteristics : are the supported device types as desktop , laptop , mobile phone etc. 
+The data flows between software and hardware , including input sensor readings , scanned data and output printer commands , display output is referred to as data interactions.
+ 
+# 3.3 Software Requirements
+ 
+The process of creating software interfaces for pharmacy websites entails the integration of multiple components to guarantee smooth operation and user engagement. Database Interfaces : The system used is MYSQL and the purpose is to store and manage product information, user data and orders . It makes it easier to retrieve, insert, edit, and delete data with ease, guaranteeing strong inventory, user, and transaction record management that is essential to the functioning and user experience of the website. Operating system :Client devices communicate with the server via HTTP/HTTPS protocols for web traffic and SSH for remote server management. These devices include Windows 10, macOS, iOS, and Android. This configuration allows for safe server environment administration, supports a variety of client environments, and guarantees reliable server-side operations. The website improves overall efficiency and user accessibility by utilizing these interfaces to maintain stability, scalability, and effective management across many operating systems. Tools and Libraries : Together, these frameworks and technologies make it possible to create an interface that is both aesthetically pleasing and easy to use, all the while streamlining database integration and backend operations to provide a consistent user experience across several browsers and devices. Integrated Commercial Components: The smooth processing of credit card payments made possible by this connection increases user confidence and convenience while checking out. Services and Data Sharing : The shared data includes email addresses, order details, and SMS content, facilitating personalized customer interactions and operational efficiency across the platform. 
+ 
 # 4.System features
 
 # 4.1 Log in System
