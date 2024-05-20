@@ -24,7 +24,7 @@ It is also for the people that will use this website (users) to get a good overv
 Pharmaget aims to make a revolution into the pharmaceutical industry by providing a platform that is more centralized and makes the management and distribution of the product simpler.
 The primary goal of Pharmaget is to have an operation of the products more efficient and to improve the client’s satisfaction.
 The system will support many functionalities which include the user management , product catalog , order management , product management and customer support.
-# Klea Murati
+Klea Murati
 
 # 2.Overall Description
 
@@ -75,7 +75,7 @@ Dependencies:
 The system relies on a third -party service for payment processing.
 Users should have stable internet connection to access the platform.
 The platform will be optimized for use on various devices , including desktops , tablets , smartphones etc.
-# Klea Murati
+Klea Murati
 
 
 # 3.Software Process Requirements
